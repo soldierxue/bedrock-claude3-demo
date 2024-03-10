@@ -3,6 +3,8 @@
 日常三个场景，给大家一个快速体验 Claude 3 的实验样例，代码演示 （1）Python 通过 anthropic Claude Message API 进行多模态交互（图片，文本），（2）流式调用，（3）图片和PDF的处理（4）Streamlit 的 Web 前端交互
 ![Demo Homepage](/images/demo_home.png)
 
+![Streamlit UI](https://github.com/soldierxue/bedrock-claude3-demo/assets/17696903/526e1f00-d96d-4d96-bc7e-080df0a4e1da)
+
 # 基本环境
 
 * 开发环境：
@@ -35,4 +37,4 @@
 
 # 更多资讯请关注公众号
 
-![WeChat QCode](https://github.com/soldierxue/bedrock-claude3-demo/blob/main/images/qrcode_wechat.jpg)
+![WeChat QCode](https://github.com/soldierxue/bedrock-claude3-demo/assets/17696903/a958f12f-dc41-4732-9034-1e9356038fd8)
